@@ -1,0 +1,4 @@
+C:\Users\dino.omicevic\Documents\Programering\consoleapptest\consoleapptest\obj\Debug\net7.0\consoleapptest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dino.omicevic\Documents\Programering\consoleapptest\consoleapptest\obj\Debug\net7.0\consoleapptest.AssemblyInfoInputs.cache
+C:\Users\dino.omicevic\Documents\Programering\consoleapptest\consoleapptest\obj\Debug\net7.0\consoleapptest.AssemblyInfo.cs
+C:\Users\dino.omicevic\Documents\Programering\consoleapptest\consoleapptest\obj\Debug\net7.0\consoleapptest.csproj.CoreCompileInputs.cache
