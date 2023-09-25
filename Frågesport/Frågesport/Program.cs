@@ -6,7 +6,7 @@ int points = 0;
 
 Console.WriteLine("Du ska svara på svåra frågor och få rätt nu");
 
-Console.WriteLine("I vilken kontinent ligger amerika i?");
+Console.WriteLine("I vilken kontinent befinner sig USA i?");
 Console.WriteLine("a) Europa b) Sydamerika c) Nordamerika");
 string answer1 = Console.ReadLine();
 if (answer1 == "c")
